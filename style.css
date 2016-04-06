@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: url("./retina-wood.png");
+}
+
+#header {
+  background: rgba(0, 0, 0, 0.1);
+  padding: 1%;
+}
